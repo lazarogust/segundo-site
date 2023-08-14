@@ -22,4 +22,4 @@ Site do projeto:
 
 https://segundo-site-one.vercel.app/
 
-<img src="https://imgur.com/Fd1yYGU" alt="meu-primeiro-site">
+<img src="https://imgur.com/Fd1yYGU.png" alt="meu-primeiro-site">
