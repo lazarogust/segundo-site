@@ -13,7 +13,7 @@ body {
     font-family: var(--font-principal);
     font-size: 16px;
     font-weight: 400;
-    width: 1140px;
+    width: 1280px;
     margin: 0 auto;
 }
 
@@ -63,6 +63,7 @@ body {
 }
 
 .container-titulo {
+    display: inline-block;
     font-size: 28px;
     font-weight: 700;
 }
