@@ -18,4 +18,8 @@ Como aplicar efeitos de estilização alterando cores, arredondamentos e importa
 
 #Isso inclui tanto no primeiro site quanto no segundo site que eu criei
 
+Site do projeto:
+
 https://segundo-site-one.vercel.app/
+
+<img src="[https://imgur.com/rtmHd4v.png](https://imgur.com/Fd1yYGU)https://imgur.com/Fd1yYGU" alt="meu-primeiro-site">
